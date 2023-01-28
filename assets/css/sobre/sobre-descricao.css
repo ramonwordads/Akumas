@@ -1,0 +1,12 @@
+.sobre__descricao{
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.295);
+    color: #fdfdfdda;
+    height: 400px;
+    line-height: 140%;
+    padding: 3rem 3rem;
+    text-align: justify;
+    
+
+}

@@ -1,0 +1,10 @@
+.sobre__imagem{
+    background: no-repeat center / cover;
+    border-radius: 20px;
+    box-shadow: 25px 18px  rgba(0, 0, 0, 0.295);
+    margin-top: 35px;
+    height: 500px;
+    width: 700px;
+
+    
+}

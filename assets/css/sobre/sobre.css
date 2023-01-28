@@ -1,0 +1,7 @@
+.sobre{
+    display: flex;
+    margin: 5rem 0;
+    justify-content:space-around;
+    padding: 3rem 3rem;
+
+}

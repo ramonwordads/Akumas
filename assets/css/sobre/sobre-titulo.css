@@ -1,0 +1,17 @@
+@keyframes animacao{
+    from {color: #fdfdfd;}
+    to {color: red;}
+}
+
+
+.sobre__titulo{
+    color: #fdfdfd;
+    font-family: 'lola', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    text-align: center;
+
+    animation-name: animacao;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
