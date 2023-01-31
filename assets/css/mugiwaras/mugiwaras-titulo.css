@@ -3,8 +3,7 @@
     to {color: red;}
 }
 
-
-.sobre__titulo{
+.mugiwaras__titulo{
     color: #fdfdfd;
     font-family: 'lola', serif;
     font-size: 2rem;
@@ -15,5 +14,3 @@
     animation-duration: 3s;
     animation-iteration-count: infinite;
 }
-
-

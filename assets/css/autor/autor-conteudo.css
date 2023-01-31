@@ -1,0 +1,9 @@
+.autor__conteudo{
+    background-color: rgba(236, 236, 236, 0.178);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding: 1rem;
+    
+    height: 725px;
+    width: 450px;
+}

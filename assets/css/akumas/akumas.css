@@ -1,0 +1,15 @@
+.akumas{
+    
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10rem;
+
+    
+
+    width: 80%;
+    margin: 16px auto;
+    
+    
+}

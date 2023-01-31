@@ -1,0 +1,11 @@
+.akuma__imagem{
+    
+    background: no-repeat center / cover;
+    border-radius: 15px;
+    box-shadow: 5px 5px black;
+    
+    
+    height: 185px;
+    width: 185px;
+    
+}

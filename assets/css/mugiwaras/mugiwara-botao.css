@@ -1,0 +1,19 @@
+.mugiwara__botao{
+    background-color: #0088cc;
+    border: none;
+    color: #fdfdfd;
+    cursor: pointer;
+    margin-left: 195px;
+    font-size: 15px;
+    padding: 1rem 1rem;
+    border-radius: 4px;
+    transition: all 1.4s;
+    transform: scale(1,1);
+    
+}
+
+.mugiwara__botao:hover{
+    background-color: red;
+    transform: scale(1.2,1.2);
+
+}

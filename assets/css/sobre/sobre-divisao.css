@@ -1,7 +1,42 @@
 .sobre__divisao{
     display: flex;
-    flex-direction: column;
-    width: 50%;
+ 
     
     
+}
+
+
+@media screen and (min-width:0){
+
+    .sobre__divisao{
+
+        line-height: 140%;
+        margin: 0 1.2rem;
+        
+        text-align: justify;
+        
+    }
+}
+
+@media screen and (min-width: 768px){
+    .sobre__divisao{
+        
+        width: 90%;
+        
+        
+        
+    }
+}
+
+@media screen and (min-width: 850px){
+    .sobre__divisao{
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 998px){
+    .sobre__divisao{
+        
+        width: 40%;
+    }
 }

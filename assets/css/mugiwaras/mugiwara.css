@@ -1,0 +1,22 @@
+.mugiwara{
+    background-color: rgba(0, 0, 0, 0.295);
+    
+    border-radius: 16px;
+    box-shadow: 18px 18px  rgba(0, 0, 0, 0.295);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    overflow: hidden;
+    height: 175px;
+    transition: all 2s;
+
+    
+    
+}
+
+.mugiwara:hover{
+    height: 700px;
+    
+    
+}

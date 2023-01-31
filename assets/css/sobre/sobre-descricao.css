@@ -3,10 +3,30 @@
     border-radius: 8px;
     background-color: rgba(0, 0, 0, 0.295);
     color: #fdfdfdda;
-    height: 400px;
-    line-height: 140%;
-    padding: 3rem 3rem;
-    text-align: justify;
+
     
 
+}
+
+
+@media screen and (min-width:0){
+
+    .sobre__descricao{
+        
+        line-height: 140%;
+        padding: 1rem 1rem;
+        
+        text-align: justify;
+        
+    }
+}
+
+
+@media screen and (min-width: 768px){
+
+    .sobre__descricao{
+        
+        line-height: 140%;
+        text-align: justify;
+    }
 }

@@ -1,7 +1,24 @@
 .sobre{
     display: flex;
-    margin: 5rem 0;
-    justify-content:space-around;
-    padding: 3rem 3rem;
+    
+}
 
+
+
+@media screen and (min-width:0){
+    .sobre{
+        flex-wrap: wrap;
+
+        margin: 0 auto;
+        justify-content: center;
+
+    }
+}
+
+@media screen and (min-width:768px){
+    .sobre{
+        margin: 5rem 0;
+        justify-content:space-around;
+        
+    }
 }

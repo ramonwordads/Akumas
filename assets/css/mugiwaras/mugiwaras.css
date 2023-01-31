@@ -1,0 +1,10 @@
+.mugiwaras{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    transform: translateY(30px);
+}
+
+.mugiwaras:hover{
+    transform: translateY(0);
+}

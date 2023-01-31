@@ -12,3 +12,22 @@
 
     
 }
+
+
+@media screen and (min-width:0){
+    .banner__titulo{
+        font-size: 0.9rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .banner__titulo{
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .banner_titulo{
+        font-size: 1.6rem;
+    }
+}

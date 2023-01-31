@@ -1,9 +1,9 @@
-.menu__link{
+.footer__link:visited, .footer__link:active, .footer__link:link{
     text-decoration: none;
     color: #fdfdfd;
     transition: all 1s;
 }
 
-.menu__link:hover{
+.footer__link:hover{
     color: red;
 }
