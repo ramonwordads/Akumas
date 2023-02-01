@@ -17,8 +17,11 @@
 
 @media screen and (min-width:768px){
     .sobre{
-        margin: 5rem 0;
-        justify-content:space-around;
+        margin: 5rem auto;
+        justify-content:center;
+        
+        align-items: center;
+        
         
     }
 }

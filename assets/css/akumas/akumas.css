@@ -1,15 +1,31 @@
 .akumas{
-    
-   
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 10rem;
-
     
 
-    width: 80%;
-    margin: 16px auto;
+    
+
     
     
+    
+}
+
+
+@media screen and (min-width:0){
+    .akumas{
+        margin: 0 auto;
+        justify-content: center;
+        align-items:center;
+
+    }
+}
+
+@media screen and (min-width: 768px){
+    .akumas{
+        justify-content: center;
+        margin-top: 10rem;
+        width: 80%;
+        margin: 16px auto;
+        
+    }
 }

@@ -1,13 +1,31 @@
 .autor{ 
     display: flex;
-    padding: 2rem 2rem;
     
-    margin: 0 auto;
-    width: 90%;
-    height: 725px;
+    
+
     
     
     
 }
 
+
+@media screen and (min-width:0){
+    .autor{
+        display: flex;
+        margin-left: 0;
+        padding-left: 0;
+        height: 725px;
+        
+    }
+}
+
+
+@media screen and (min-width: 768px){
+    .autor{
+        margin: 0 auto;
+        width: 90%;
+        height: 725px;
+        padding: 2rem 2rem;
+    }
+}
 
